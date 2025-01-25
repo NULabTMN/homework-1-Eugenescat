@@ -1,47 +1,100 @@
 <topics>
   <topic>
-    <id></id>
+    <id>https://guides.loc.gov/chronicling-america-early-jazz</id>
     <results>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+	<id>https://www.loc.gov/resource/sn83045217/1921-01-22/ed-1/?sp=1&q=Jazz+Saxophone&r=0.084,0.963,0.28,0.146,0</id>
+	<rel>1</rel>
+	<text>Philadelphia, Jan.21-Modern jazz music and dancing are making the Indians wild again. The roll of the snare drum and the wail of the saxophone, combined with the "toddle" and the "shimmy" stir atavistic memories of the tom-tom and the shriek of the victim at the stake.</text>
       </result>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+	<id>https://www.loc.gov/resource/sn87093354/1921-02-01/ed-1/?sp=10&q=jazz&r=0.064,0.447,0.708,0.605,0</id>
+	<rel>1</rel>
+	<text>Then jass was transplated into America, entering from the south and creeping up until it covered all of America.</text>
       </result>
     </results>
   </topic>
   <topic>
-    <id></id>
+    <id>https://www.loc.gov/resource/sn83030214/1920-08-15/ed-1/?sp=55&q=danc+Dance+dancing+jazz</id>
+    <rel>1</rel>
+    <text>Jazz, he believes, is now dying that natural death, and European nations which so quickly adopted the American craze will see its American demise spread across the seas. Jazz has had its day.</text>
     <results>
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+	<id>https://www.loc.gov/resource/sn88076526/1922-01-25/ed-1/?sp=3&q=dance+dancing+jazz&r=0.129,0.052,0.912,0.78,0</id>
+	<rel>1</rel>
+	<text>With the jazz dance and for it we have "jazz" music. One of the leading dancing masters of the United States, Mr.Fenton T. Bott of Dayton, Ohio was asked, "Is there anything bad about jazz music itself?" He said:"There certainly is! Those moaning saxophones and the rest of the instruments with their broken jerky rythm make a purely sexual appeal.</text>
       </result>
+
       <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
+	<id>https://www.loc.gov/resource/sn85058393/1922-06-18/ed-1/?sp=34&q=dance+dances+dancing+jazz&r=0.423,0.99,0.398,0.34,0</id>
+	<rel>1</rel>
+	<text>The American brand of jazz dancing continues to be potent enough to cause great alarm in France and to reverse the general order of things, so that the people of Paris actually are shocked at us.</text>
       </result>
+
+      <result>
+	<id>https://www.loc.gov/resource/sn78001466/1921-09-19/ed-1/?sp=6&q=dancing+jazz+Jazz</id>
+	<rel>1</rel>
+	<text>Seemingly the pubic is divided in its opinion on this big question. Some say the younger generation is to blame. Jazz dancing and jazz music are, to repeat their own words just exactly what one might expect when the youth of land gads about in sporty automobiles, simulates contempt for Mrs.Grundy's ideas and shows a determination to do everything in a fast and snappy way.
+  Others maintain that jazz is a natural reaction to Victorian customs.</text>
+      </result>
+
+      <result>
+	<id>https://www.loc.gov/resource/sn83045774/1921-03-13/ed-1/?sp=82&q=immoral+jazz</id>
+	<rel>1</rel>
+	<text>Jazz, for example, I think, was invented by imps for the torment of imbeciles. True, it does not contain any distinct immoral teaching, because music is not a didactic art, but jazz does contain a real immoral influence, because it confuses, bewilders, benumbs and befuddles the ming through the ears.</text>
+      </result>
+
+      <result>
+	<id>https://www.loc.gov/resource/sn85038531/1919-09-03/ed-1/?sp=6&q=Immoral+Jazz&r=0.177,0.024,0.383,0.328,0</id>
+	<rel>1</rel>
+	<text>Six months ago we predicted that hte dancing teachers' association would wage war on "jazz", and our prediction has come true.</text>
+      </result>
+
+      <result>
+	<id>https://www.loc.gov/resource/sn83045774/1922-10-15/ed-1/?sp=121&q=immoral+jazz</id>
+	<rel>1</rel>
+	<text>Yet they say jazz is ruining the morals of our youth. In my thesis, which I shall submit to the Fellows of the Harvard and Yale corporations and the Girls of the Bryn Mawr and Vassar corporations, I shall convince the world that jazz is justified, inevitable and harmless.</text>
+      </result>
+
+      <result>
+	<id>https://www.loc.gov/resource/sn84026749/1920-09-07/ed-1/?sp=11&q=immoral+jazz</id>
+	<rel>1</rel>
+	<text>Jazz supporters say it is music. "Straight" musicians say it is unmitigated noise. whether it is or is not music has not yet been decided. It probably never will. But, at any rate, there is a most unharmonious jangle going on in Washington musical cercles over it.</text>
+      </result>
+
+      <result>
+        <id>https://www.loc.gov/resource/sn85038485/1922-12-23/ed-1/?sp=7&q=early+jazz&r=0.142,0.054,0.683,0.584,0</id>
+        <rel>1</rel>
+        <text>Early Jazz in Jerusalem</text>
+      </result>
+
+      <result>
+        <id>https://www.loc.gov/resource/sn86075298/1938-05-12/ed-1/?sp=2&q=early+jazz&r=0.162,0.188,0.622,0.531,0</id>
+        <rel>0</rel>
+        <text></text>
+      </result>
+
+      <result>
+        <id>https://www.loc.gov/resource/sn83045462/1925-01-03/ed-1/?sp=12&q=early+jazz</id>
+        <rel>1</rel>
+        <text>Several unusual compositions were given debut performance in Washington yesterday afternoon when Paul Whiteman's famous Concert Orchestra of jazz musicians gave local music lovers a second performance this season of "an experiment in jazz" at Poli's Theater.</text>
+      </result>
+
+      <result>
+        <id>https://www.loc.gov/resource/sn84026749/1924-11-22/ed-1/?sp=2&q=early+jazz</id>
+        <rel>1</rel>
+        <text>Paul Whiteman made the concert a "history of jazz" beginning with its absurdities, where the frying pan and the kitchen stove were emplem of early jazz as substitutes for the percussion instruments.</text>
+      </result>
+
+      <result>
+        <id>https://www.loc.gov/resource/sn83045462/1924-11-22/ed-1/?sp=8&q=early+jazz</id>
+        <rel>1</rel>
+        <text>A glimpse of the crude early jazz was given in the opening number, La Rocca's "Dixeland" presented by a small group from among the 25 musicians, aided with such equipment as small skillets and a large galvanized pail, given before the gold curtain with caricature silhouettes of the entire orchestra painted upon it.</text>
+      </result>
+
     </results>
   </topic>
-  <topic>
-    <id></id>
-    <results>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-      <result>
-	<id>/</id>
-	<rel></rel>
-	<text></text>
-      </result>
-    </results>
-  </topic>
+
+  
+
 </topics>
